@@ -1,50 +1,60 @@
-# EXP-3
-EXPT NO: 3				STAIR CASE WIRING                     
+## EXP NO: 3 STAIR CASE WIRING
 
- 
-AIM
- To control the status of the given lamp by using two–way switches. 
-APPARATUS REQUIRED:
+# DEVELOPED BY: NAVEENKUMAR M
+# REGISTER NUMBER: 212224230183
 
-S. No.
-Name of the apparatus	
-Range / Type	
-Quantity
+## Aim:
+To wire for a stair case arrangement using a two-way switch.
 
-1	Incandescent Lamp	60W	1 No.
-2	Lamp Holder	Pendent Type	1 No.
-3	SPDT Switch	230V,5A	2 Nos
-4	Wires	1/18”	As per requirement
-5	P.V.C Pipe	1/4"	As per requirement
-6	Wooden Board	-	1 No.
-7	Round block	-	1 No.
+## Tool Required:
+1.  Proteus -8 – software 
 
+## Components Required:
 
-Theory:
-•	A two way switch is installed near the first step of the stairs. The other two way switch is installed at the upper part where the stair ends.
-•	The light point is provided between first and last stair at an adequate location and height if the light is switched on by the lower switch. It can be switched off by the switch at the top or vice versa.
-•	The circuit can be used at the places like bed room where the person may  not  have  to  travel for switching off the light to the place from where the light is switched on.
-•	Two  numbers  of  two-way  switches  are  used  for  the  purpose.  The supply is given to the switch at the short circuited terminals.
-•	The  connection  to  the  light  point  is  taken  from  the  similar  short circuited  terminal  of  the   second  switch.   Order  two  independent terminals of each circuit are connected through  cables 
-PROCEDURE
-•  Place the accessories on the wiring board as per the circuit diagram.
-•  Place the P.V.C pipe and insert two wires into the P.V.C pipe.
-•	Take one wire connect one end to the phase side and other end to the middle point of SPDT switch 1
-•  Upper point of SPDT switch 1 is connected to the lower point of SPDT
-switch2.
-•  Lower point of SPDT 1 is connected to the upper point SPDT switch2.
-•	Another wire taken through a P.V.C pipe and middle point of SPDT switch 2 is connected to one end of the lamp holder.
-•  Another end of lamp holder is connected to neutral line.
-•  Screw the accessories on the board and switch on the supply.
-•  Circuit is tested for all possible combination of switch positions.
+1.	Two-way switches
+2.	Bulb holders
+3.  Bulbs
+4.	Joint clips
+5.	Wires
+6.  Screws
+7.	Ceiling rose and
+8.  Switch board	
 
 
-Direct connection: CIRCUIT DIAGRAM: 
-Tabulation:1
-	
-Cross connection: CIRCUIT DIAGRAM:
+## Procedure:
+1.	Mark switch and bulb location points and draw lines for wiring on the wooden Board.
+2.	Place wires along the lines and fix them with the help of clips.
+3.	Fix the two-way switches and bulb holder in the marked position on the wooden Board.
+4.	Complete the wiring as per the wiring diagram.
+5.	Test the working of the bulbs by giving electric supply to the circuit.
 
-Tabulation:2
 
-RESULT:
-Thus the staircase wiring is connected and tested.
+## Theory:
+A two switch is installed near the first step of the stairs. The other two way switch is installed at the upper part where the stair ends. The light point is provided between first and last stair at an adequate location and height if the lower switch switches on the light. The switch at the top or vice versa can switch it off. Two number of two way switches are used for the purpose. The supply is given to the switch at the short circuited terminals. The connection to the light point is taken from the similar short circuited terminal of the second switch; other two independent terminals of each circuit are connected through cables.
+
+## CIRCUIT DIAGRAM --STAIRCASE WIRING
+
+# XOR:
+<img width="900" height="568" alt="image" src="https://github.com/user-attachments/assets/576d15df-46de-4d1c-a50a-c72085e12d13" />
+
+# XNOR:
+<img width="859" height="527" alt="image" src="https://github.com/user-attachments/assets/55d5e5b4-f226-47ec-b6e6-4769ea9a9756" />
+
+## TABULATION:
+
+# XOR:
+<img width="636" height="323" alt="image" src="https://github.com/user-attachments/assets/fbb1cbcb-6d3f-4b15-91d9-a2cbb09c7c60" />
+
+# XNOR:
+<img width="621" height="295" alt="image" src="https://github.com/user-attachments/assets/2ac9affc-7fef-4340-8ae3-86d9db098835" />
+
+## OUTPUT:
+
+# XOR:
+<img width="662" height="537" alt="Screenshot 2025-09-27 143021" src="https://github.com/user-attachments/assets/192403b0-7129-4ba1-93fe-f6121ef92564" />
+
+# XNOR:
+<img width="728" height="505" alt="Screenshot 2025-09-27 142847" src="https://github.com/user-attachments/assets/d17a3065-3eb7-4099-91b9-be802ec1259d" />
+
+## RESULT:
+The staircase wiring is completed and tested.
