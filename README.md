@@ -32,21 +32,14 @@ To wire for a stair case arrangement using a two-way switch.
 ## Theory:
 A two switch is installed near the first step of the stairs. The other two way switch is installed at the upper part where the stair ends. The light point is provided between first and last stair at an adequate location and height if the lower switch switches on the light. The switch at the top or vice versa can switch it off. Two number of two way switches are used for the purpose. The supply is given to the switch at the short circuited terminals. The connection to the light point is taken from the similar short circuited terminal of the second switch; other two independent terminals of each circuit are connected through cables.
 
-## CIRCUIT DIAGRAM --STAIRCASE WIRING
 
-# XOR:
-<img width="900" height="568" alt="image" src="https://github.com/user-attachments/assets/576d15df-46de-4d1c-a50a-c72085e12d13" />
 
-# XNOR:
-<img width="859" height="527" alt="image" src="https://github.com/user-attachments/assets/55d5e5b4-f226-47ec-b6e6-4769ea9a9756" />
 
-## TABULATION:
+![SC1](https://github.com/user-attachments/assets/4b7bfcf0-6dfb-4619-b394-59d175d546d9)
+![SC2](https://github.com/user-attachments/assets/959d9a9a-8ded-490a-a3f8-b9e36100f305)
+![SC3](https://github.com/user-attachments/assets/d9f97585-ddf5-41cd-b4aa-bb7fafc4a9e6)
 
-# XOR:
-<img width="636" height="323" alt="image" src="https://github.com/user-attachments/assets/fbb1cbcb-6d3f-4b15-91d9-a2cbb09c7c60" />
 
-# XNOR:
-<img width="621" height="295" alt="image" src="https://github.com/user-attachments/assets/2ac9affc-7fef-4340-8ae3-86d9db098835" />
 
 ## OUTPUT:
 
